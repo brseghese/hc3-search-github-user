@@ -1,3 +1,15 @@
+<h1 id="topo">Pesquisar Perfil GitHub <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px"/></h1>
+
+<h2>VTEX - Hiring Coders #3 🚀</h2>
+
+<h3>📌 Módulo React.js</h3>
+
+Projeto desenvolvido para exercitar os conceitos dados no curso de React.js
+
+Esse projeto está vinculado ao repositório **Master** do Programa HC#3 - [clique aqui](https://github.com/brseghese/vtex-hiring-coders-3/tree/main/d1_react)🔗 para acessá-lo.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
