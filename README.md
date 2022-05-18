@@ -6,7 +6,21 @@
 
 Projeto desenvolvido para exercitar os conceitos dados no curso de React.js
 
-Esse projeto está vinculado ao repositório **Master** do Programa HC#3 - [clique aqui](https://github.com/brseghese/vtex-hiring-coders-3/tree/main/d1_react)🔗 para acessá-lo.
+Esse projeto está vinculado ao repositório **Principal** do Programa HC#3 - [clique aqui](https://github.com/brseghese/vtex-hiring-coders-3/tree/main/d1_react)🔗 para acessá-lo.
+
+---
+
+<h3>🛠️ Funcionalidades desenvolvidas</h3>
+
+1. Configurando o App React
+2. Entendendo componentes, propriedades e estados
+3. Criando input e button no App React
+4. [API GitHub](https://api.github.com/)
+5. Instalando o pacote [AXIOS](https://axios-http.com/ptbr/docs/intro) para requisição da API, digitar no terminal:
+
+```
+npm install axios
+```
 
 ---
 
@@ -80,3 +94,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+```
+
+```
