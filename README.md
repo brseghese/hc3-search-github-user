@@ -1,4 +1,4 @@
-<h1 id="topo">Pesquisar Perfil GitHub <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px"/></h1>
+<h1 id="topo">Pesquisar Perfil GitHub <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="30px"/></h1>
 
 <h2>VTEX - Hiring Coders #3 🚀</h2>
 
@@ -12,7 +12,12 @@ Esse projeto está vinculado ao repositório **Principal** do Programa HC#3 - [c
 
 <h3>🛠️ Desenvolvendo o App</h3>
 
-1. Configurando o App React
+1. Criando o [React App](https://create-react-app.dev/)🔗:
+
+```
+npx create-react-app nome_do_projeto
+```
+
 2. Entendendo componentes, propriedades e estados
 3. Adicionando componente controlado - input
 4. Criando função no button
@@ -23,6 +28,14 @@ npm install axios
 ```
 
 6. Fazendo a requisição da [API GitHub](https://api.github.com/)🔗 usando método .then()
+7. Criando componente Repositories.js
+8. Instalando o plugin [React Router Dom](https://v5.reactrouter.com/web/guides/quick-start)🔗:
+
+```
+npm install react-router-dom
+```
+
+9. Estabelecendo as rotas
 
 ---
 
@@ -96,7 +109,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-```
-
-```
