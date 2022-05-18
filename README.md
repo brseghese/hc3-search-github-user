@@ -10,17 +10,19 @@ Esse projeto está vinculado ao repositório **Principal** do Programa HC#3 - [c
 
 ---
 
-<h3>🛠️ Funcionalidades desenvolvidas</h3>
+<h3>🛠️ Desenvolvendo o App</h3>
 
 1. Configurando o App React
 2. Entendendo componentes, propriedades e estados
-3. Criando input e button no App React
-4. [API GitHub](https://api.github.com/)
-5. Instalando o pacote [AXIOS](https://axios-http.com/ptbr/docs/intro) para requisição da API, digitar no terminal:
+3. Adicionando componente controlado - input
+4. Criando função no button
+5. Instalando o pacote [AXIOS](https://axios-http.com/ptbr/docs/intro)🔗:
 
 ```
 npm install axios
 ```
+
+6. Fazendo a requisição da [API GitHub](https://api.github.com/)🔗 usando método .then()
 
 ---
 
