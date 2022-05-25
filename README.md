@@ -10,12 +10,12 @@ Projeto desenvolvido para exercitar os conceitos dados no curso.
 
 <h3 id="">📁 Acessar Projeto</h3>
 
-◽ <a href="https://github.com/brseghese/vtex-hiring-coders-3/tree/main/d1_react/tree/main">Acessar</a>🔗 o código fonte pelo GitHub. <br>
-◽ <a href="https://github.com/brseghese/vtex-hiring-coders-3/tree/main/d1_react/archive/refs/heads/main.zip">Download</a>🔗 do código fonte no formato zip.<br>
+◽ <a href="https://github.com/brseghese/vtex-hiring-coders-3-react-js-pesquisar-github/tree/main">Acessar</a>🔗 o código fonte pelo GitHub. <br>
+◽ <a href="https://github.com/brseghese/vtex-hiring-coders-3-react-js-pesquisar-github/archive/refs/heads/main.zip">Download</a>🔗 do código fonte no formato zip.<br>
 ◽ Clonar o repositório ultilizando Git Bash + o comando:
 
 ```
-$ git clone https://github.com/brseghese/vtex-hiring-coders-3/tree/main/d1_react.git
+$ git clone https://github.com/brseghese/vtex-hiring-coders-3-react-js-pesquisar-github.git
 ```
 
 ---
