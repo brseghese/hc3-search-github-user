@@ -6,7 +6,11 @@ Este projeto faz parte da continuação do curso de React.js.
 
 ### 📍 Sobre
 
-Projeto desenvolvido para exercitar os conceitos dados no curso.
+O projeto Pesquisar Perfil no GitHub é um projeto básico para exercitar os conceitos dados no curso de React.js.
+
+Digitando um nome de usurário do GitHub, são retornados os repositórios desse usuário.
+
+No desenvolvimento foi usado `axios` para fazer a requisão da `API` e `React-Router-Dom` para o roteamento da aplicação.
 
 <h3 id="">📁 Acessar Projeto</h3>
 
@@ -20,45 +24,30 @@ $ git clone https://github.com/brseghese/vtex-hiring-coders-3-react-js-pesquisar
 
 ---
 
-<details>
-<summary>Clique para Navegar 🔽</summary>
+<h3>🚀 Iniciando o Projeto</h3>
 
-- <a href="#1">Preparando o Ambiente</a>
-
-</details>
-
----
-
-<h2>🚀 Iniciando o Projeto</h2>
-
-<h3 id="1">🧰 Preparando o Ambiente</h3>
-
-#### ✔️ Criando o [React App](https://create-react-app.dev/)🔗:
+#### ✔️ Instalando o [React App](https://create-react-app.dev/)🔗:
 
 ```
 npx create-react-app nome_do_projeto
 ```
 
-Entendendo componentes, propriedades e estados.
-
-Adicionando componente controlado (input).
-
-Criando função no button.
-
-#### ✔️ Instalando o pacote [AXIOS](https://axios-http.com/ptbr/docs/intro)🔗:
+#### ✔️ Instalando o [AXIOS](https://axios-http.com/ptbr/docs/intro)🔗:
 
 ```
-npm install axios
+npm i axios
 ```
 
-Fazendo a requisição da [API GitHub](https://api.github.com/)🔗 usando método `then()`.
+Requisitando a [API GitHub](https://api.github.com/)🔗 com axios.
 
-Criando componente Repositories.js.
-
-#### ✔️ Instalando o plugin [React Router Dom](https://v5.reactrouter.com/web/guides/quick-start)🔗
+#### ✔️ Instalando o [React Router Dom](https://v5.reactrouter.com/web/guides/quick-start)🔗
 
 ```
-npm install react-router-dom
+npm i react-router-dom
 ```
 
-Estabelecendo as rotas.
+#### ✔️ Instalando o [Style Components](https://styled-components.com/)🔗
+
+```
+npm i styled-components
+```
