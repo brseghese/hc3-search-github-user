@@ -1,111 +1,64 @@
 <h1 id="topo">Pesquisar Perfil GitHub <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="30px"/></h1>
 
-<h2>VTEX - Hiring Coders #3 🚀</h2>
+Este projeto faz parte da continuação do curso de React.js.
 
-<h3>📌 Módulo React.js</h3>
+[Clique aqui](https://github.com/brseghese/vtex-hiring-coders-3/tree/main/d1_react)🔗 para acessar o repositório com a introdução do curso.
 
-Projeto desenvolvido para exercitar os conceitos dados no curso de React.js
+### 📍 Sobre
 
-Esse projeto está vinculado ao repositório **Principal** do Programa HC#3 - [clique aqui](https://github.com/brseghese/vtex-hiring-coders-3/tree/main/d1_react)🔗 para acessá-lo.
+Projeto desenvolvido para exercitar os conceitos dados no curso.
+
+<h3 id="">📁 Acessar Projeto</h3>
+
+◽ <a href="https://github.com/brseghese/vtex-hiring-coders-3/tree/main/d1_react/tree/main">Acessar</a>🔗 o código fonte pelo GitHub. <br>
+◽ <a href="https://github.com/brseghese/vtex-hiring-coders-3/tree/main/d1_react/archive/refs/heads/main.zip">Download</a>🔗 do código fonte no formato zip.<br>
+◽ Clonar o repositório ultilizando Git Bash + o comando:
+
+```
+$ git clone https://github.com/brseghese/vtex-hiring-coders-3/tree/main/d1_react.git
+```
 
 ---
 
-<h3>🛠️ Desenvolvendo o App</h3>
+<details>
+<summary>Clique para Navegar 🔽</summary>
 
-1. Criando o [React App](https://create-react-app.dev/)🔗:
+- <a href="#1">Preparando o Ambiente</a>
+
+</details>
+
+---
+
+<h2>🚀 Iniciando o Projeto</h2>
+
+<h3 id="1">🧰 Preparando o Ambiente</h3>
+
+#### ✔️ Criando o [React App](https://create-react-app.dev/)🔗:
 
 ```
 npx create-react-app nome_do_projeto
 ```
 
-2. Entendendo componentes, propriedades e estados
-3. Adicionando componente controlado - input
-4. Criando função no button
-5. Instalando o pacote [AXIOS](https://axios-http.com/ptbr/docs/intro)🔗:
+Entendendo componentes, propriedades e estados.
+
+Adicionando componente controlado (input).
+
+Criando função no button.
+
+#### ✔️ Instalando o pacote [AXIOS](https://axios-http.com/ptbr/docs/intro)🔗:
 
 ```
 npm install axios
 ```
 
-6. Fazendo a requisição da [API GitHub](https://api.github.com/)🔗 usando método .then()
-7. Criando componente Repositories.js
-8. Instalando o plugin [React Router Dom](https://v5.reactrouter.com/web/guides/quick-start)🔗:
+Fazendo a requisição da [API GitHub](https://api.github.com/)🔗 usando método `then()`.
+
+Criando componente Repositories.js.
+
+#### ✔️ Instalando o plugin [React Router Dom](https://v5.reactrouter.com/web/guides/quick-start)🔗
 
 ```
 npm install react-router-dom
 ```
 
-9. Estabelecendo as rotas
-
----
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Estabelecendo as rotas.
