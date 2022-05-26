@@ -1,4 +1,4 @@
-<h1 id="topo">Pesquisar Perfil GitHub <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px"/></h1>
+<h1 id="topo">Pesquisar Perfil GitHub <img src="./src/assets/github.png" width="35px"/></h1>
 
 Este projeto faz parte da continuação do curso de React.js do **Programa Hiring Coders #3** da VTEX em parceria com a Gama Academy.
 
@@ -21,7 +21,9 @@ Recursos:
 
 ---
 
-### 🚀​ [Clique aqui]()🔗 para iniciar a aplicação.
+### 🚀​ [Clique aqui](https://hc3-search-rep-github.netlify.app/)🔗 para iniciar a aplicação.
+
+![image](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
