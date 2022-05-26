@@ -14,6 +14,13 @@ export const Content = styled.div`
   align-items: center;
 `;
 
+export const ImgGitHub = styled.img`
+  width: 200px;
+  max-width: 50%;
+  margin-bottom: 1rem;
+  margin-top: -9rem;
+`;
+
 export const Input = styled.input`
   border: 1px solid #ddd;
   border-radius: 0.25rem 0 0 0.25rem;

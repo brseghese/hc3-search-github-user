@@ -21,7 +21,11 @@ Recursos:
 
 ---
 
-### 📁 Acessando o Projeto
+### 🚀​ [Clique aqui]()🔗 para iniciar a aplicação.
+
+---
+
+### ​⚙️​ Acessando o Projeto
 
 ◽ <a href="https://github.com/brseghese/vtex-hiring-coders-3-react-js-pesquisar-github/tree/main">Acessar</a>🔗 o código fonte pelo GitHub. <br>
 ◽ <a href="https://github.com/brseghese/vtex-hiring-coders-3-react-js-pesquisar-github/archive/refs/heads/main.zip">Download</a>🔗 do código fonte no formato zip.<br>
@@ -31,11 +35,7 @@ Recursos:
 git clone https://github.com/brseghese/vtex-hiring-coders-3-react-js-pesquisar-github.git
 ```
 
----
-
-### 🚀 Executando o Projeto
-
-#### ✔️ Após clonar ou fazer o download
+◽ Após clonar ou fazer o download:
 
 ```
 npm i
@@ -77,12 +77,11 @@ npm i styled-components
 
 ---
 
-### ⚡​ Próximos Assuntos para Estudar
+### ​​📘​​ Sugestão de Estudos
 
 - React Context API
 - Redux
 - Next.js
-- Gatsby.js
 
 ---
 

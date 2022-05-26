@@ -3,9 +3,11 @@ import axios from "axios";
 import * as S from "./styled";
 import { useHistory } from "react-router-dom";
 
+import github from "../../components/github.png";
+
 export default function Home(props) {
   const history = useHistory();
-  const [usuario, setUsuario] = useState("brseghese");
+  const [usuario, setUsuario] = useState("");
   const [erro, setErro] = useState(false);
 
   function handlePesquisar() {
@@ -14,7 +16,7 @@ export default function Home(props) {
       .then((response) => {
         const repositories = response.data;
         const repositoriesName = [];
-        repositories.map((repository) => {
+        repositories.forEach((repository) => {
           repositoriesName.push(repository.name);
         });
         localStorage.setItem(
@@ -30,8 +32,10 @@ export default function Home(props) {
   }
   return (
     <S.Container>
+      <S.ImgGitHub src={github} />
       <S.Content>
         <S.Input
+          autoFocus
           value={usuario}
           className="usuarioInput"
           placeholder="Usuário"
