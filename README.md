@@ -1,63 +1,86 @@
-<h1 id="topo">Pesquisar Perfil GitHub <img src="./src/assets/github.png" width="35px"/></h1>
+<h1 align="center" id="topo">Search GitHub User <img src="./src/assets/github.png" width="35px"/></h1>
 
-Este projeto faz parte da continuação do curso de React.js do **Programa Hiring Coders #3** da VTEX em parceria com a Gama Academy.
+<div align="center">
+<img width='900px' src="./assets/mockup.png" width="35px"/>
+</div>
 
-[Clique aqui](https://github.com/brseghese/vtex-hiring-coders-3/tree/main/d1_react)🔗 para acessar o repositório com a introdução do curso.
+### 💻 Projeto
+
+O projeto Search GitHub User - Pesquisar Perfil GitHub - é um projeto para exercitar os conceitos dados no curso de React.js do **Programa Hiring Coders #3** da VTEX em parceria com a Gama Academy.
+
+Digitando um nome de usuário do Github, a aplicação busca os repositórios desse usuário e os exibem em outra página.
+
+[Clique aqui](https://github.com/brseghese/hiring-coders-3-vtex-gama/tree/main/d1_react)🔗 para acessar o repositório com a introdução do curso.
 
 ---
 
-### 📍 Sobre o Projeto
+### 🔧 Ferramentas
 
-O projeto Pesquisar Perfil no GitHub é um projeto básico para exercitar os conceitos dados no curso de React.js.
+O projeto foi desenvolvido com as seguintes ferramentas:
 
-Digitando um nome de usuário do Github, a aplicação busca os repositórios desse usuário e os listam em outra página.
+#### 🧪 Tecnologias
 
-Recursos:
+- [React.js](https://pt-br.reactjs.org/)
+- GraphQl
 
-- react-router-dom
+#### 📚 Dependências
+
+- [React-Router-DOM](https://reactrouter.com/)
 - styled-components
 - axios
 - API GitHub
 
 ---
 
-### 🚀​ [Clique aqui](https://hc3-search-rep-github.netlify.app/)🔗 para iniciar a aplicação.
+### 🚀 ​ [Clique aqui](https://hc3-search-rep-github.netlify.app/)🔗 e veja a aplicação no ar.
 
 ![image](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
-### ​⚙️​ Acessando o Projeto
+### ​👷‍♂️​ Acessar o Projeto
 
-◽ <a href="https://github.com/brseghese/vtex-hiring-coders-3-react-js-pesquisar-github/tree/main">Acessar</a>🔗 o código fonte pelo GitHub. <br>
-◽ <a href="https://github.com/brseghese/vtex-hiring-coders-3-react-js-pesquisar-github/archive/refs/heads/main.zip">Download</a>🔗 do código fonte no formato zip.<br>
-◽ Clonar o repositório ultilizando Git Bash + o comando:
+<a href="https://github.com/brseghese/hc3-search-github-user/tree/main">Acesse aqui</a>🔗 o código fonte pelo GitHub.
 
-```
-git clone https://github.com/brseghese/vtex-hiring-coders-3-react-js-pesquisar-github.git
-```
+Faça o <a href="https://github.com/brseghese/hc3-search-github-user/archive/refs/heads/main.zip">Download aqui</a>🔗 do código fonte no formato zip.
 
-◽ Após clonar ou fazer o download:
+Clone o repositório:
 
 ```
-npm i
+git clone https://github.com/brseghese/hc3-search-github-user.git
 ```
+
+Entre na pasta do projeto:
+
+```
+cd hc3-search-github-user
+```
+
+Instale as dependências:
+
+```
+npm install
+```
+
+Execute a aplicação:
 
 ```
 npm run start
 ```
 
+Abra http://localhost:3000 no seu navegador para ver a aplicação
+
 ---
 
-### ⚙️​ Pacotes e Recursos usados no Projeto
+### 📝 Resumo - Preparação do Ambiente
 
-#### ✔️ Instalando o [React App](https://create-react-app.dev/)🔗
+Instalando o [React App](https://create-react-app.dev/)🔗
 
 ```
 npx create-react-app nome_do_projeto
 ```
 
-#### ✔️ Instalando o [AXIOS](https://axios-http.com/ptbr/docs/intro)🔗
+Instalando o [AXIOS](https://axios-http.com/ptbr/docs/intro)🔗
 
 ```
 npm i axios
@@ -65,13 +88,13 @@ npm i axios
 
 Requisitando a [API GitHub](https://api.github.com/)🔗 com axios.
 
-#### ✔️ Instalando o [React Router Dom](https://v5.reactrouter.com/web/guides/quick-start)🔗
+Instalando o [React Router Dom](https://v5.reactrouter.com/web/guides/quick-start)🔗
 
 ```
 npm i react-router-dom
 ```
 
-#### ✔️ Instalando o [Style Components](https://styled-components.com/)🔗
+Instalando o [Style Components](https://styled-components.com/)🔗
 
 ```
 npm i styled-components
@@ -87,11 +110,26 @@ npm i styled-components
 
 ---
 
+### 📝 License
+
+Esse projeto é licenciado pela MIT License. Veja mais detalhes por [aqui](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT)
+
+---
+
 ### ✒️ Autor
 
 <a href="https://github.com/brseghese"> <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/80193824?v=4" width="100px;" alt="Personal photo"/> </a>
 
-[Clique aqui](https://brseghese.github.io)🔗 e acesse meu portfólio! 💼 (em construção...) <br>
-Desenvolvido com ❤️ por **Bruno Seghese** © Alguns direitos reservados.
+[Clique aqui](https://brseghese.github.io)🔗 e acesse meu portfólio! 💼 (em construção...)
+
+---
+
+#### 💬 Sinta-se a vontade para entrar em contato
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoseghese/) [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brseghese) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brseghese@gmail.com)
+
+---
+
+> Desenvolvido com ❤️ por **Bruno Seghese**
+
+---
