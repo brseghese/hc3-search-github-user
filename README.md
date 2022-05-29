@@ -1,7 +1,7 @@
 <h1 align="center" id="topo">Search GitHub User <img src="./src/assets/github.png" width="35px"/></h1>
 
 <div align="center">
-<img width='900px' src="./assets/mockup.png" width="35px"/>
+<img width='600px' src="./assets/mockup.png" width="35px"/>
 </div>
 
 ### 💻 Projeto
